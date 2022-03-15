@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to EECS notes
+
+You can view the page at [eecsmap.github.io](https://eecsmap.github.io).
 
 You can use the [editor on GitHub](https://github.com/eecsmap/notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
