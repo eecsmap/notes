@@ -1,6 +1,6 @@
 ## Welcome to EECS notes
 
-You can view the page at [eecsmap.github.io](https://eecsmap.github.io).
+You can view the page at [eecsmap.github.io/notes](https://eecsmap.github.io/notes).
 
 You can use the [editor on GitHub](https://github.com/eecsmap/notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
